@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_web_pro=self.webpackChunkreact_web_pro||[]).push([[346],{"7UUm":function(e,t,a){a.r(t);var r=a("q1tI");t.default=function(){return r.createElement("div",{className:"page-home"})}}}]);
